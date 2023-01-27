@@ -1,4 +1,4 @@
-#https://pkfirebarry.github.io/Linkedin-Profile-Page-Clone/
+https://pkfirebarry.github.io/Linkedin-Profile-Page-Clone/
 
 # Getting Started with Create React App
 
